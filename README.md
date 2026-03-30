@@ -2,6 +2,18 @@
 
 Projet Data For Good - Saison 14
 
+## ESGI - Infra
+
+[![CI](https://github.com/BatMaxou/14_ValorisationDonneeMeteo/actions/workflows/ci.yaml/badge.svg)](https://github.com/BatMaxou/14_ValorisationDonneeMeteo/actions/workflows/ci.yaml)
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/BatMaxou/14_ValorisationDonneeMeteo/badge)](https://scorecard.dev/viewer/?uri=github.com/BatMaxou/14_ValorisationDonneeMeteo)
+
+---
+
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=BatMaxou_14_ValorisationDonneeMeteo&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=BatMaxou_14_ValorisationDonneeMeteo)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=BatMaxou_14_ValorisationDonneeMeteo&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=BatMaxou_14_ValorisationDonneeMeteo)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=BatMaxou_14_ValorisationDonneeMeteo&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=BatMaxou_14_ValorisationDonneeMeteo)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=BatMaxou_14_ValorisationDonneeMeteo&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=BatMaxou_14_ValorisationDonneeMeteo)
+
 ## Structure du projet
 
 ```
